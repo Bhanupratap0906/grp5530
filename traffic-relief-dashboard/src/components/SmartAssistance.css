@@ -1,0 +1,45 @@
+.smart-assistance-section {
+    background-color: white;
+    padding: 30px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .smart-assistance-section h2 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+  }
+  
+  .smart-assistance-section h3 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .smart-assistance-section p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+  }
+  
+  .traffic-relief-time,
+  .route-optimization {
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .smart-assistance-section a {
+    color: #4CAF50;
+    text-decoration: none;
+  }
+  
+  .smart-assistance-section a:hover {
+    text-decoration: underline;
+  }
+  
